@@ -1,7 +1,7 @@
 # Wine-Quality-Prediction
-# Wine-Quality-Prediction
-![image](https://github.com/Ankitthakur2025/Wine-Quality-Prediction/assets/111188389/53cfab47-f0f0-4dca-a60c-a4f493c95fdc)
-https://github.com/Ankitthakur2025/Wine-Quality-Prediction/assets/111188389/9c3b6ee6-eb86-4589-a290-1da76cfe0187
+![71W+3bONurL _AC_UF894,1000_QL80_](https://github.com/Ankitthakur2025/Wine-Quality-Prediction/assets/111188389/58245e81-7a90-46cf-ac0f-04454b38efe8)
+
+
 ## Introduction
 The objective of this project is to build a model that predicts the quality of wine based on various features such as acidity, pH, alcohol content, etc. The dataset used for this project is the "winequality-red.csv" file.
 ## Data Exploration
@@ -30,6 +30,15 @@ The accuracy scores of different models are recorded and summarized in a table. 
 In conclusion, the Random Forest and XGBoost models are effective for predicting wine quality based on the selected features. Further fine-tuning and optimization of hyperparameters could potentially improve the performance of these models. This project demonstrates the application of machine learning techniques for wine quality prediction, which can be valuable for winemakers and wine enthusiasts in assessing the quality of wines based on measurable characteristics.
 
 
+
+
+
+
+https://github.com/Ankitthakur2025/Wine-Quality-Prediction/assets/111188389/5f76d5d4-a1fd-490f-b1a6-738cee270241
+
+## CHEERS!
+
+![fragrance_champagne](https://github.com/Ankitthakur2025/Wine-Quality-Prediction/assets/111188389/2a5f9d06-3f17-443c-9dd5-68efdca7b80b)
 
 
 
