@@ -1,4 +1,4 @@
-## Wine-Quality-Prediction ##
+# Wine-Quality-Prediction 
 ![71W+3bONurL _AC_UF894,1000_QL80_](https://github.com/Ankitthakur2025/Wine-Quality-Prediction/assets/111188389/58245e81-7a90-46cf-ac0f-04454b38efe8)
 
 
